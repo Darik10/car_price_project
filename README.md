@@ -78,3 +78,17 @@ For now, we are already familiar with the business problem; and there is a pre-c
 2. __Data:__ We are goin to use these data sets [Car Price Data Sets](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction) posted at [Kaggle](https://www.kaggle.com).
 3.__Hardware/Softwares:__ We are goin to use My laptob and Python with its data science libraries such as (numpy, pandas, seaborn, matplotlib, sikit-learn), we will also use Jupyter-notebook to edit and run our code. in addition to that we will use one BI tool, either Power BI or Tablue.
 
+## Milestone Two
+
+#### 1. Cleaning, formating and preparing the data. (Part One)
+It's crucial to clean and format the data before doing anything with it, so the data cleaning process that we gon flow will look like this:-
+
+ 1. Exploring and Undrestaning the raw data:
+  * Checking for general shape (number of rows and columns in the data.)
+  * checking for the column names.
+  * checking for data types for each column.
+  * checking for errors made during the data entry (un-expected values).
+  * checking for null values.
+  * checking for outliers.
+  * checking for duplicates.
+**Note:** All the work can be found in the code section.
