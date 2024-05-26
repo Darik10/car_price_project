@@ -91,4 +91,5 @@ It's crucial to clean and format the data before doing anything with it, so the 
   * checking for null values.
   * checking for outliers.
   * checking for duplicates.
+
 **Note:** All the work can be found in the code section.
