@@ -1,5 +1,5 @@
 # Car Price Project
-A practical project intended to predict a car prices based on given variables.
+A practical project intended to predict a car prices based on a given variables.
 ## **Project Overview:**
 We are going to work on a car price peroject posted in [Kaggle](https://www.kaggle.com/). I am not a Kagglist, but for me [Kaggle](https://www.kaggle.com/) is a place where I go to; when I need to pull some data sets to pratice with. 
 
