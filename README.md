@@ -39,3 +39,42 @@ The biger idea behind this project is to model the car price variable with the o
 
 **Note:** This project was posted 4 years ago on [Kaggle](kaggle.com), but for now it is enough for me to play with it.
 
+## Step 2: Project Proposal
+
+Before jumping to writing a project prosal, I think it is useful to discus about things like:
+ - What is totally asked?
+ - What kind of data will be used? What sources of data are availabe?
+ - What are the required variables? 
+ - What types of analysis and models might be useful? and many more questions a like.
+ 
+For now, we are already familiar with the business problem; and there is a pre-collected servay data which is planed to use for this project. When it comes to the required variables, we would assign the required variables during the proccess; cause all the effecting variables of the car price should be included. And since we had a prediction task, we would use a predictive model; a multiple linear regression is recomended for this task. We will also try to apply other complex predictive models, inorder to campare the results and select the most suitable one.
+
+
+### <center>Car Price Project Proposal </center>
+
+|Milestone|Tasks|Outcome/Deliverables|Estimated Time|
+|---------|----|---------------------|--------------|
+|  |Project Workflow is outlined|||
+|  Milestone One |Data is gathered| updates are shared | Two weeks |  |
+|| Software/hardware needs are identified| |  | 
+|----------------|----------------------|-------------------|------------|
+|  | Data is formated, cleaned and prepared|  |   |
+|Milestone Two| EDA is applied| Summery report is produced| Two weeks|
+|  | Descriptive statistics is applied| updates are shared| |
+|   | Features are selected| |  |
+|----------------|----------------------|-------------------|------------|
+|  |Hypothesis testing is applied|  |  |
+|  |Modeling and machine learning decissions are finalized| | |
+|Milestone Three| Model is constructed| updates are shared|Three weeks|
+|  | Model is evaluated, tested and retested for accurecy| | |
+|----------------|----------------------|-------------------|------------|
+|  |Results are finalized| executive summary is produced |  | |
+|Milestone Four| Findigs are shared| Visualizations|One week|
+|   |Feedback is incorporated| Results|  |
+
+
+## Milestone One
+1. __Project workflow:__ Our project steps and tasks are outlined on the proposal shown above.
+2. __Data:__ We are goin to use these data sets [Car Price Data Sets](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction) posted at [Kaggle](https://www.kaggle.com).
+3.__Hardware/Softwares:__ We are goin to use My laptob and Python with its data science libraries such as (numpy, pandas, seaborn, matplotlib, sikit-learn), we will also use Jupyter-notebook to edit and run our code. in addition to that we will use one BI tool, either Power BI or Tablue.
+
